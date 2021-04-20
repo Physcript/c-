@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+		cout << "at last it work\n";
+		cout << "my ny is john\n";
+		cout << "today is friday\n";
+		
+		system("pause > 0");
+}
